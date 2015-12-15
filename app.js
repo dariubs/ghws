@@ -9,7 +9,7 @@ angular
           controller: 'Td'
         })
         .when('/:name',{
-          templateUrl: 'hi.html',
+          templateUrl: 'ghws/hi.html',
           controller: 'TC'
         });
     })
